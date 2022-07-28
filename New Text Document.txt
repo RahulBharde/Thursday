@@ -1,0 +1,4 @@
+Project = COMPASS AND issuetype = "Story" AND "IT Team" = Avatar AND fixVersion = 2022-03-24
+
+
+Legato567#- Facets
