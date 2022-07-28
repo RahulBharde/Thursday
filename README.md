@@ -1,0 +1,2 @@
+# Thursday
+Thursday git learning
